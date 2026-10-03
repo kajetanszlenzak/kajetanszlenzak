@@ -1,8 +1,8 @@
 <div align="center">
 
-**Junior Fullstack Developer | TypeScript · Angular · NestJS**
+**Junior Fullstack Developer | TypeScript · Angular · NestJS · PHP**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kajetan-szlenzak/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kajetan-szlenzak)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=github&logoColor=white)](https://kajetanszlenzak.github.io)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kajetan.szlenzak@gmail.com)
 
@@ -12,9 +12,9 @@
 
 ### 👨‍💻 About me
 
-Junior Fullstack Developer based in **Poznań, Poland**, building web applications with **Angular** and **NestJS**. At **Wilda Software** I develop and maintain software for external clients, integrate third-party services and APIs, and work directly with clients on requirements and technical solutions.
+Junior Fullstack Developer based in **Poznań, Poland**, building web applications with **Angular** and **TypeScript**. At **Wilda Software** I started on an application built with **NestJS** and Angular, and I now work on a commercial client project with Angular and **PHP (Yii2)**, integrating third-party services and APIs and working directly with the client on requirements and technical solutions.
 
-The part of the stack I enjoy most is the backend, especially **NestJS**, but I'm just as comfortable on the frontend with Angular or React. After work and classes I keep building side projects, and I use AI tools every day for refactoring, writing tests and getting up to speed with new APIs.
+The part of the stack I enjoy most is the backend, especially **NestJS**, which I keep developing in my side projects, but I'm just as comfortable on the frontend with Angular or React. After work and classes I keep building side projects, and I use AI tools every day for refactoring, writing tests and getting up to speed with new APIs.
 
 Graduated with a **B.Eng. in Computer Science** and currently pursuing an **M.Sc. in Computer Science** at WSB Merito University.
 
